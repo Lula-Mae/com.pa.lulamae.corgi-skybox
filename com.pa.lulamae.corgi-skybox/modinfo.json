@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.lulamae.corgi-skybox",
+  "display_name": "Corgi Skybox",
+  "description": "Your game begins in a universe filled with irresistible, interstellar Corgis",
+  "author": "Lula Mae",
+  "version": "2.0.0",
+  "build": "114779",
+  "date": "2020-07-24",
+  "signature": "not yet implemented",
+  "forum": "https://forums.planetaryannihilation.com/threads/rel-corgi-custom-skybox.72824/",
+  "priority": 100,
+  "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/corgi-skybox-icon.png",
+  "category":
+  [
+    "skybox",
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "scenes":
+  {
+      "settings":
+      [
+          "coui://ui/mods/com.pa.lulamae.corgi-skybox/settings.js"
+      ]
+  }
+}
